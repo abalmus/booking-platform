@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "strictPropertyInitialization": false,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+
+        "rootDirs": ["./server/src"],
+        "outDir": "./dist",
+        "target": "ES2018",
+        "module": "commonjs",
+        "jsx": "react",
+    }
+}
